@@ -1,6 +1,6 @@
 # Task 2 - Exploratory Data Analysis
 
-# Best Selling Books 2023 
+ Best Selling Books 2023 
 
 ## Project Description
 This project performs Exploratory Data Analysis (EDA) on the Best Selling Books 2023 dataset.  
