@@ -25,7 +25,8 @@ This repository contains all tasks completed during the CodeAlpha Data Analytics
 ## 📂 Repository Structure
 
 ---codealpha_data_analytics_tasks/
-│
+
+
 ├── Task2_EDA/
 ├── Task3_Data_Visualization/
 ├── Task4_Sentiment_Analysis/
