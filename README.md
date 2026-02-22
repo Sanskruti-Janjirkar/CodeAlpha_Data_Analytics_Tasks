@@ -28,8 +28,11 @@ This repository contains all tasks completed during the CodeAlpha Data Analytics
 
 
 ├── Task2_EDA/
+
 ├── Task3_Data_Visualization/
+
 ├── Task4_Sentiment_Analysis/
+
 └── README.md
 
 ## 👩‍💻 Author  
